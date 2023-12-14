@@ -3,8 +3,8 @@
 ## Welcome to my Blog!
 
 Hello there!
-I'm excited to embark on a new project - creating a blog-posts dedicated to solving the challenges of Advent of Code 2023.
-Join me on this journey where I aim to enhance my problem solving skills, programming logic, and algorithmic thinking.
++ I'm excited to embark on a new project - creating a blog-posts dedicated to solving the challenges of Advent of Code 2023.
++ Join me on this journey where I aim to enhance my problem solving skills, programming logic, and algorithmic thinking.
 
 ## Project Overview
 
