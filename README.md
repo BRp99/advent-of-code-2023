@@ -2,14 +2,13 @@
 
 ## Welcome to my Blog!
 
-Hello there!
-+ I'm excited to embark on a new project - creating a blog-posts dedicated to solving the challenges of Advent of Code 2023.
-+ Join me on this journey where I aim to enhance my problem solving skills, programming logic, and algorithmic thinking.
+Hello there! I'm excited to embark on a new project - creating a blog-posts dedicated to solving the challenges of Advent of Code 2023.
+Join me on this journey where I aim to enhance my problem solving skills, programming logic, and algorithmic thinking.
 
 ## Project Overview
 
-My goal is to share daily insights and solutions as I tackle the intriguing problems presented by Advent of Code.
-This project serves as a platform for continuous learning, allowing me to evolve from a novice programmer to a coding ninja 🥷.
++ My goal is to share daily insights and solutions as I tackle the intriguing problems presented by Advent of Code.
++ This project serves as a platform for continuous learning, allowing me to evolve from a novice programmer to a coding ninja 🥷.
 
 ## Programming Language: Python
 
