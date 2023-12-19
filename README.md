@@ -1,7 +1,7 @@
 # From Novice to Ninja: Daily Learnings in Advent of Code 2023
 
-* [Day 1]([https://link-url-here.org](https://github.com/BRp99/advent-of-code-2023/tree/main/day_1))
-* [Day 2]([https://link-url-here.org](https://github.com/BRp99/advent-of-code-2023/tree/main/day_2))
+* [Day 1](https://link-url-here.org](https://github.com/BRp99/advent-of-code-2023/tree/main/day_1)
+* [Day 2](https://link-url-here.org](https://github.com/BRp99/advent-of-code-2023/tree/main/day_2)
 
 Hello there! I'm excited to embark on a new project - creating posts dedicated to solving the challenges of Advent of Code 2023.
 Join me on this journey where I aim to enhance my problem solving skills, programming logic, and algorithmic thinking.
