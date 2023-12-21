@@ -11,6 +11,7 @@ Join me on this journey where I aim to enhance my problem solving skills, progra
 
 + My goal is to share daily insights and solutions as I tackle the intriguing problems presented by Advent of Code.
 + This project serves as a platform for continuous learning, allowing me to evolve from a novice programmer to a coding ninja 🥷.
++ I will use diagrams to visualize and better understand the problems.
 
 ## Programming Language: Python
 
