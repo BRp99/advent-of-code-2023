@@ -5,6 +5,10 @@ Join me on this journey where I aim to enhance my problem solving skills, progra
 
 * [Day 1](https://github.com/BRp99/advent-of-code-2023/tree/main/day_1)
 * [Day 2](https://github.com/BRp99/advent-of-code-2023/tree/main/day_2)
+* [Day 4](https://github.com/BRp99/advent-of-code-2023/tree/main/day_4)
+* [Day 6](https://github.com/BRp99/advent-of-code-2023/tree/main/day_6)
+* [Day 8](https://github.com/BRp99/advent-of-code-2023/tree/main/day_8)
+
 
 
 ## Project Overview
@@ -21,4 +25,6 @@ I've chosen to dive into the world of Python, because its versatility opens door
 ## What to Expect
 
 I'm looking forward to facing the challenges and sharing my journey with other developers.
+I may not be able to do both parts of a given day or days. The important thing is that I am committed to learning and improving my programming skills.
+If you have suggestions, improvements or corrections, feel free to open an issue or send a pull request. 😌
 
