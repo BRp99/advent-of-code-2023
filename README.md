@@ -7,8 +7,6 @@ Join me on this journey where I aim to enhance my problem solving skills, progra
 * [Day 2](https://github.com/BRp99/advent-of-code-2023/tree/main/day_2)
 * [Day 4](https://github.com/BRp99/advent-of-code-2023/tree/main/day_4)
 * [Day 6](https://github.com/BRp99/advent-of-code-2023/tree/main/day_6)
-* [Day 8](https://github.com/BRp99/advent-of-code-2023/tree/main/day_8)
-
 
 
 ## Project Overview
